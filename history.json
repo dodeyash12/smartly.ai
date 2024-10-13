@@ -1,0 +1,148 @@
+{
+    "class_name": "TMU - History 102",
+    "student": {
+        "name": "Alice Johnson",
+        "modules": [
+            {
+                "title": "Global Context and Early Encounters",
+                "description": "Explore global interconnections during early encounters.",
+                "subsections": [
+                    {
+                        "title": "Assignment 1",
+                        "description": "Write an analysis comparing Marco Polo’s and Ibn Battuta’s perspectives on trade networks in Asia and Africa.",
+                        "due_date": "2024-10-15",
+                        "points": 100,
+                        "completed": true
+                    },
+                    {
+                        "title": "Quiz 1",
+                        "description": "Quiz on early global interconnections and travel narratives",
+                        "due_date": "2024-10-15",
+                        "points": 50,
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "title": "Empires and the Atlantic World",
+                "description": "Study the expansion and conquest in the Atlantic World.",
+                "subsections": [
+                    {
+                        "title": "Assignment 2",
+                        "description": "Map the Columbian Exchange, identifying how food, diseases, and animals reshaped societies in Europe and the Americas.",
+                        "due_date": "2024-10-21",
+                        "points": 100,
+                        "completed": false
+                    },
+                    {
+                        "title": "Quiz 2",
+                        "description": "Quiz on the Portuguese expansion and the Columbian Exchange",
+                        "due_date": "2024-10-23",
+                        "points": 50,
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "title": "Slavery and Global Trade",
+                "description": "Examine the impact of the Atlantic Slave Trade on African and European societies.",
+                "subsections": [
+                    {
+                        "title": "Assignment 3",
+                        "description": "Analyze the economic and social impact of the Atlantic Slave Trade on African societies and European economies.",
+                        "due_date": "2024-10-30",
+                        "points": 100,
+                        "completed": false
+                    },
+                    {
+                        "title": "Quiz 3",
+                        "description": "Quiz on the Atlantic Slave Trade and global economic impact",
+                        "due_date": "2024-11-01",
+                        "points": 50,
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "title": "Revolutions and Enlightenment",
+                "description": "Explore intellectual and political revolutions of the 18th and 19th centuries.",
+                "subsections": [
+                    {
+                        "title": "Assignment 4",
+                        "description": "Write a comparative essay on how the ideas of Enlightenment and Marxism shaped 18th and 19th-century revolutions in Europe and Latin America.",
+                        "due_date": "2024-11-10",
+                        "points": 100,
+                        "completed": false
+                    },
+                    {
+                        "title": "Quiz 4",
+                        "description": "Quiz on Enlightenment and Marxist ideologies and their impacts",
+                        "due_date": "2024-11-11",
+                        "points": 50,
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "title": "Imperialism and Nationalism",
+                "description": "Analyze New Imperialism and the rise of national identities.",
+                "subsections": [
+                    {
+                        "title": "Assignment 5",
+                        "description": "Group project on the resistance to European imperialism in Asia and Africa, focusing on leaders like Lin Zexu and Morel.",
+                        "due_date": "2024-11-18",
+                        "points": 100,
+                        "completed": false
+                    },
+                    {
+                        "title": "Quiz 5",
+                        "description": "Quiz on European imperialism and national movements",
+                        "due_date": "2024-11-20",
+                        "points": 50,
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "title": "World Wars and Decolonization",
+                "description": "Examine the conflicts of the 20th century and the process of decolonization.",
+                "subsections": [
+                    {
+                        "title": "Assignment 6",
+                        "description": "Research paper on how World War I triggered revolutions and shaped modern national identities in Europe and the Middle East.",
+                        "due_date": "2024-11-28",
+                        "points": 100,
+                        "completed": false
+                    },
+                    {
+                        "title": "Quiz 6",
+                        "description": "Quiz on World War I, revolutions, and decolonization movements",
+                        "due_date": "2024-11-29",
+                        "points": 50,
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "title": "The Cold War and Post-Colonial World",
+                "description": "Study the Cold War and post-colonial dynamics in Africa and Asia.",
+                "subsections": [
+                    {
+                        "title": "Assignment 7",
+                        "description": "Final paper on the role of the Cold War in shaping the decolonization movements in Africa and Asia.",
+                        "due_date": "2024-12-03",
+                        "points": 150,
+                        "completed": false
+                    },
+                    {
+                        "title": "Quiz 7",
+                        "description": "Quiz on Cold War dynamics and post-colonialism",
+                        "due_date": "2024-12-10",
+                        "points": 50,
+                        "completed": false
+                    }
+                ]
+            }
+        ]
+    }
+}
